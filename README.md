@@ -1,107 +1,109 @@
-#9.9元送书咯~~
+#书单
 
 
- - 《胜于言传：Web内容创作与设计的艺术》
- - 《JBoss 管理与开发核心技术：第三版》
- - 《网页设计创意书（卷3）》
- - 《Unity游戏设计与实现》
- - 《AngularJS权威教程》
- - 《Spring实战（第3版）》
- - 《点石成金》
- - 《HTML5 移动游戏开发高级编程》
- - 《游戏设计的100个原理》
- - 《Spring源码深度解析》
- - 《C++ Templates中文版》
- - 《JavaScript高级程序设计（第3版）》
- - 《单页Web应用》
- - 《快学Scala》
- - 《Docker源码分析》
- - 《Open Stack设计与实现》
- - 《CSS禅意花园（修订版）》
- - 《影响力：让网站内容打动访客》
- - 《迷茫的旅行商》
- - 《编写高质量代码：改善Python程序的91个建议》
- - 《Go并发编程实战》
- - 《设计搜索体验》
- - 《理解Unix进程》
- - 《敏捷武士》
- - 《游戏设计要则探秘（全彩）》
- - 《程序开发心理学（银年纪念版）》
- - 《Scrum精髓》
- - 《敏捷教练》
- - 《精通CSS（第2版）》
- - 《发布！软件的设计与部署》
- - 《物联网设计》
- - 《React Native入门与实战》
- - 《社会媒体挖掘》
- - 《Polymer：面向未来的Web组件开发》
- - 《Elasticsearch服务器开发（第2版）》
- - 《啊哈!算法》
- - 《微服务架构与实践》
- - 《DOM启蒙》
- - 《服务设计模式》
- - 《测试驱动开发》
- - 《自制搜索引擎》
- - 《代码之髓》
- - 《Web Component实战：探索PolymerJS、Mozilla Brick、Bosonic与ReactJS框架》
- - 《用户故事与敏捷方法》
- - 《Scala与Clojure函数式编程模式》
- - 《易读代码的艺术》
- - 《Ruby元编程》
- - 《JavaScript编程精解》
- - 《Effective JavaScript》
- - 《适应性创新》
- - 《家用游戏机简史》
- - 《游戏化思维》
- - 《一线之间》
- - 《新世界》
- - 《精益招聘》
- - 《破坏式创新——从0到1 VS 从1到N》
- - 《无须等待》
- - 《精益思想》
- - 《麦肯锡方法》
- - 《提问的威力：教练问题全清单》
- - 《走出思维的误区》
- - 《第三种创新》
- - 《思维导图宝典》
- - 《小众行为学》
- - 《平台》
- - 《重新定位》
- - 《内容营销》
- - 《短!微讯息时代写作的艺术》
- - 《文案训练手册》
- - 《深度学习的7种有力策略》
- - 《翻转课堂的可汗学院》
- - 《麦肯锡教我的写作武器》
- - 《网络营销决胜武器》
- - 《古希腊诗学遗韵》
- - 《IDEO，设计改变一切》
- - 《洞见远胜创意》
- - 《沟通的艺术（插图修订第14版）》
- - 《群体性孤独》
- - 《真相》
- - 《集客行动营销》
- - 《救猫咪》
- - 《资源革命：如何抓住一百年来最大的商机》
- - 《编辑力（珍藏版）》
- - 《蔚蓝诡计》
- - 《布谷鸟的呼唤》
- - 《看电影的艺术》
- - 《演说之禅》
- - 《胡林的儿女》
- - 《风格的要素》
- - 《“懒人”统治世界》
- - 《你的剧本逊毙了！》
- - 《场景革命》
- - 《建筑的永恒之道》
- - 《游戏改变世界》
- - 《一个人的电商》
- - 《四步创业法》
- - 《创造力》
- - 《故事策略》
- - 《数据结构与算法JavaScript描述》
- - 《写给PHP开发者的Node.js学习指南》
- - 《编写可维护的JavaScript》
- - 《Backbone.js应用程序开发》
- - 《JavaScript 函数式编程》
+图片     | 详细信息   | 书名
+--------|-----------|-------
+![Books](https://img3.doubanio.com/mpic/s27137315.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111434986) |胜于言传：Web内容创作与设计的艺术"
+![Books](https://img1.doubanio.com/mpic/s10265042.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121003936) |JBoss 管理与开发核心技术：第三版"
+![Books](https://img1.doubanio.com/mpic/s27223138.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115340900) |网页设计创意书（卷3）"
+![Books](https://img3.doubanio.com/mpic/s27995300.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115384249) |Unity游戏设计与实现"
+![Books](https://img1.doubanio.com/mpic/s27371732.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115366474) |AngularJS权威教程"
+![Books](https://img3.doubanio.com/mpic/s27260565.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115316066) |Spring实战（第3版）"
+![Books](https://img3.doubanio.com/mpic/s1723386.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111184829) |点石成金"
+![Books](https://img1.doubanio.com/mpic/s27288412.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787302356318) |HTML5 移动游戏开发高级编程"
+![Books](https://img3.doubanio.com/mpic/s28041935.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115376879) |游戏设计的100个原理"
+![Books](https://img3.doubanio.com/mpic/s28047190.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115325686) |Spring源码深度解析"
+![Books](https://img1.doubanio.com/mpic/s26281134.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115312815) |C++ Templates中文版"
+![Books](https://img3.doubanio.com/mpic/s8958650.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115275790) |JavaScript高级程序设计（第3版）"
+![Books](https://img1.doubanio.com/mpic/s28011613.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115363626) |单页Web应用"
+![Books](https://img1.doubanio.com/mpic/s22713467.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121185670) |快学Scala"
+![Books](https://img1.doubanio.com/mpic/s28265214.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111510727) |Docker源码分析"
+![Books](https://img3.doubanio.com/mpic/s28303240.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121258305) |Open Stack设计与实现"
+![Books](https://img1.doubanio.com/mpic/s11087399.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115283764) |CSS禅意花园（修订版）"
+![Books](https://img1.doubanio.com/mpic/s27268834.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115352422) |影响力：让网站内容打动访客"
+![Books](https://img1.doubanio.com/mpic/s27028577.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115327734) |迷茫的旅行商"
+![Books](https://img3.doubanio.com/mpic/s27307891.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111467045) |编写高质量代码：改善Python程序的91个建议"
+![Books](https://img3.doubanio.com/mpic/s27763085.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115373984) |Go并发编程实战"
+![Books](https://img1.doubanio.com/mpic/s27315887.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111449256) |设计搜索体验"
+![Books](https://img1.doubanio.com/mpic/s26592239.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115316899) |理解Unix进程"
+![Books](https://img1.doubanio.com/mpic/s10306904.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115281548) |敏捷武士"
+![Books](https://img3.doubanio.com/mpic/s27999386.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121252099) |游戏设计要则探秘（全彩）"
+![Books](https://img3.doubanio.com/mpic/s28104646.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121258589) |程序开发心理学（银年纪念版）"
+![Books](https://img1.doubanio.com/mpic/s27283218.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787302363859) |Scrum精髓"
+![Books](https://img1.doubanio.com/mpic/s27851609.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787302325734) |敏捷教练"
+![Books](https://img1.doubanio.com/mpic/s11187739.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115226730) |精通CSS（第2版）"
+![Books](https://img1.doubanio.com/mpic/s27986278.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115380456) |发布！软件的设计与部署"
+![Books](https://img1.doubanio.com/mpic/s27964824.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115376411) |物联网设计"
+![Books](https://img3.doubanio.com/mpic/s28369276.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115411914) |React Native入门与实战"
+![Books](https://img3.doubanio.com/mpic/s28366910.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115406392) |社会媒体挖掘"
+![Books](https://img1.doubanio.com/mpic/s28343393.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121271724) |Polymer：面向未来的Web组件开发"
+![Books](https://img1.doubanio.com/mpic/s28000019.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115380326) |Elasticsearch服务器开发（第2版）"
+![Books](https://img1.doubanio.com/mpic/s27345094.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115354594) |啊哈!算法"
+![Books](https://img1.doubanio.com/mpic/s28368132.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121275913) |微服务架构与实践"
+![Books](https://img3.doubanio.com/mpic/s27277895.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121226175) |DOM启蒙"
+![Books](https://img3.doubanio.com/mpic/s27169251.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111443056) |服务设计模式"
+![Books](https://img3.doubanio.com/mpic/s27073420.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111423867) |测试驱动开发"
+![Books](https://img3.doubanio.com/mpic/s28357851.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115411709) |自制搜索引擎"
+![Books](https://img3.doubanio.com/mpic/s27445100.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115361530) |代码之髓"
+![Books](https://img1.doubanio.com/mpic/s28333932.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121273827) |Web Component实战：探索PolymerJS、Mozilla Brick、Bosonic与ReactJS框架"
+![Books](https://img3.doubanio.com/mpic/s6159440.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787302223405) |用户故事与敏捷方法"
+![Books](https://img1.doubanio.com/mpic/s28069184.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115388940) |Scala与Clojure函数式编程模式"
+![Books](https://img3.doubanio.com/mpic/s11126996.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787564134471) |易读代码的艺术"
+![Books](https://img1.doubanio.com/mpic/s7014167.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787560974583) |Ruby元编程"
+![Books](https://img1.doubanio.com/mpic/s11431224.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111396659) |JavaScript编程精解"
+![Books](https://img1.doubanio.com/mpic/s27274299.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111446231) |Effective JavaScript"
+![Books](https://img3.doubanio.com/mpic/s27372025.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213061868) |适应性创新"
+![Books](https://img3.doubanio.com/mpic/s28114665.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115392596) |家用游戏机简史"
+![Books](https://img1.doubanio.com/mpic/s27261653.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213060137) |游戏化思维"
+![Books](https://img1.doubanio.com/mpic/s11174458.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787300161082) |一线之间"
+![Books](https://img1.doubanio.com/mpic/s11179823.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787807601944) |新世界"
+![Books](https://img1.doubanio.com/mpic/s28242603.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115397843) |精益招聘"
+![Books](https://img1.doubanio.com/mpic/s28044559.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121257766) |破坏式创新——从0到1 VS 从1到N"
+![Books](https://img1.doubanio.com/mpic/s27942454.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213064029) |无须等待"
+![Books](https://img3.doubanio.com/mpic/s5777755.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111337546) |精益思想"
+![Books](https://img1.doubanio.com/mpic/s4397932.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111292715) |麦肯锡方法"
+![Books](https://img1.doubanio.com/mpic/s27218153.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787508077789) |提问的威力：教练问题全清单"
+![Books](https://img3.doubanio.com/mpic/s23115331.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787510048760) |走出思维的误区"
+![Books](https://img1.doubanio.com/mpic/s27244757.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787300183985) |第三种创新"
+![Books](https://img1.doubanio.com/mpic/s28391973.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787122172341) |思维导图宝典"
+![Books](https://img1.doubanio.com/mpic/s28028253.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787569901160) |小众行为学"
+![Books](https://img1.doubanio.com/mpic/s27048884.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787511717795) |平台"
+![Books](https://img1.doubanio.com/mpic/s6567234.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111339755) |重新定位"
+![Books](https://img3.doubanio.com/mpic/s27196476.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787516406281) |内容营销"
+![Books](https://img3.doubanio.com/mpic/s11102820.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115288028) |短!微讯息时代写作的艺术"
+![Books](https://img3.doubanio.com/mpic/s27266965.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787508628448) |文案训练手册"
+![Books](https://img1.doubanio.com/mpic/s6161403.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787561773642) |深度学习的7种有力策略"
+![Books](https://img3.doubanio.com/mpic/s27283266.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213060489) |翻转课堂的可汗学院"
+![Books](https://img1.doubanio.com/mpic/s26863863.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787550215528) |麦肯锡教我的写作武器"
+![Books](https://img3.doubanio.com/mpic/s26637976.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121202520) |网络营销决胜武器"
+![Books](https://img3.doubanio.com/mpic/s27190300.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787549603688) |古希腊诗学遗韵"
+![Books](https://img3.doubanio.com/mpic/s6514475.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787547014738) |IDEO，设计改变一切"
+![Books](https://img1.doubanio.com/mpic/s27994898.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787547608449) |洞见远胜创意"
+![Books](https://img1.doubanio.com/mpic/s27920443.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787510077463) |沟通的艺术（插图修订第14版）"
+![Books](https://img3.doubanio.com/mpic/s27274366.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213059841) |群体性孤独"
+![Books](https://img3.doubanio.com/mpic/s27235720.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787300186658) |真相"
+![Books](https://img1.doubanio.com/mpic/s27676278.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787220092985) |集客行动营销"
+![Books](https://img3.doubanio.com/mpic/s4692980.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787308083706) |救猫咪"
+![Books](https://img1.doubanio.com/mpic/s28119848.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213067648) |资源革命：如何抓住一百年来最大的商机"
+![Books](https://img1.doubanio.com/mpic/s26592547.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213051456) |编辑力（珍藏版）"
+![Books](https://img1.doubanio.com/mpic/s4576858.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787507533675) |蔚蓝诡计"
+![Books](https://img1.doubanio.com/mpic/s27264313.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787020102860) |布谷鸟的呼唤"
+![Books](https://img1.doubanio.com/mpic/s4585748.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787301164730) |看电影的艺术"
+![Books](https://img1.doubanio.com/mpic/s26591972.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121199844) |演说之禅"
+![Books](https://img3.doubanio.com/mpic/s23127965.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787544708234) |胡林的儿女"
+![Books](https://img1.doubanio.com/mpic/s11151112.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787513902069) |风格的要素"
+![Books](https://img1.doubanio.com/mpic/s27968762.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787543088580) |“懒人”统治世界"
+![Books](https://img1.doubanio.com/mpic/s6526724.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787510035906) |你的剧本逊毙了！"
+![Books](https://img1.doubanio.com/mpic/s28259102.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787111505631) |场景革命"
+![Books](https://img3.doubanio.com/mpic/s1128925.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787800116278) |建筑的永恒之道"
+![Books](https://img3.doubanio.com/mpic/s11136690.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213049422) |游戏改变世界"
+![Books](https://img3.doubanio.com/mpic/s28378275.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787121257667) |一个人的电商"
+![Books](https://img3.doubanio.com/mpic/s11171520.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787560982489) |四步创业法"
+![Books](https://img1.doubanio.com/mpic/s27967514.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787213064128) |创造力"
+![Books](https://img1.doubanio.com/mpic/s26560018.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115311382) |故事策略"
+![Books](https://img1.doubanio.com/mpic/s27371758.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115363398) |数据结构与算法JavaScript描述"
+![Books](https://img3.doubanio.com/mpic/s28070201.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115344984) |写给PHP开发者的Node.js学习指南"
+![Books](https://img3.doubanio.com/mpic/s26615195.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115310088) |编写可维护的JavaScript"
+![Books](https://img1.doubanio.com/mpic/s27461369.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115356642) |Backbone.js应用程序开发"
+![Books](https://img1.doubanio.com/mpic/s28263518.jpg) |[详细信息](https://api.douban.com/v2/book/isbn/:9787115390608) |JavaScript 函数式编程"
  
